@@ -1,0 +1,17 @@
+# Arduino / IDE
+*.hex
+*.elf
+*.bin
+.vscode/
+.idea/
+
+# Local Wi-Fi credentials
+src/secrets.h
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Temporary files
+*.tmp
+*.log
